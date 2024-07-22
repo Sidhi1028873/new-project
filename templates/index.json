@@ -1,0 +1,309 @@
+{
+  "sections": {
+    "slideshow_AMrQcG": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_LWQe8B": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3940505_1.jpg",
+            "heading": "Find The Best Sneakers",
+            "heading_size": "h1",
+            "subheading": "Outstanding Fit | Trendy Shoes | Highly Comfartable",
+            "button_label": "Sneak In",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_nnw7Hz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo_tech-squad2.jpg",
+            "heading": "Find Trends",
+            "heading_size": "h1",
+            "subheading": "Latest Products",
+            "button_label": "Sneak Now",
+            "link": "shopify:\/\/collections\/shop-for-occassions",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_LWQe8B",
+        "slide_nnw7Hz"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_aPdG7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Lf4tRB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adidas_logo.png",
+            "title": "Adidas",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cRnmUw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FILA_logo.png",
+            "title": "Fila",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aFkygj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Puma_logo.png",
+            "title": "Puma",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gMaU8H": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nike_logo.png",
+            "title": "Nike",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zHzYmh": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New-Balance_logo.png",
+            "title": "New Balance",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UHKgiJ": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bata_logo.png",
+            "title": "Bata",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_P97pc8": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skechers_logo.png",
+            "title": "Sketchers",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JUCc3k": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jordan_logo.png",
+            "title": "Jordan",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kGa6HR": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Reebok_logo.png",
+            "title": "Reebook",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Lf4tRB",
+        "column_cRnmUw",
+        "column_aFkygj",
+        "column_gMaU8H",
+        "column_zHzYmh",
+        "column_UHKgiJ",
+        "column_P97pc8",
+        "column_JUCc3k",
+        "column_kGa6HR"
+      ],
+      "settings": {
+        "title": "Brand Partners",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "View All",
+        "button_link": "shopify:\/\/pages\/brand-partners",
+        "color_scheme": "scheme-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Bestsellers",
+        "heading_size": "h1",
+        "description": "<h3><em>Find our bestsellers for this month<\/em><\/h3>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "bulk",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_NfiPkd": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_CqKjNH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes-for-men"
+          }
+        },
+        "featured_collection_gjyzXd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shoes-for-women"
+          }
+        },
+        "featured_collection_FjpqKk": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kids"
+          }
+        },
+        "featured_collection_J3ARXi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "party-wear-shoes"
+          }
+        },
+        "featured_collection_QVV7Mz": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "formal-wear"
+          }
+        },
+        "featured_collection_L69VgR": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "party-wear"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_CqKjNH",
+        "featured_collection_gjyzXd",
+        "featured_collection_FjpqKk",
+        "featured_collection_J3ARXi",
+        "featured_collection_QVV7Mz",
+        "featured_collection_L69VgR"
+      ],
+      "settings": {
+        "title": "Shop on our categories",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 6,
+        "color_scheme": "scheme-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_dhEXJV": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Arrivals",
+        "heading_size": "h1",
+        "description": "<p>Find the latest trends in the industry<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shop-for-occassions",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_AMrQcG",
+    "multicolumn_aPdG7n",
+    "featured_collection",
+    "collection_list_NfiPkd",
+    "featured_collection_dhEXJV"
+  ]
+}

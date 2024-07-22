@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "multicolumn_rK7LQM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ME8hUX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adidas_logo.png",
+            "title": "Adidas",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tcBhAA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/FILA_logo.png",
+            "title": "Fila",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_idqbRR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Puma_logo.png",
+            "title": "Puma",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JBAn3P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Nike_logo.png",
+            "title": "Nike",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7Wxt4d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New-Balance_logo.png",
+            "title": "New Balance",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QpFwwz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bata_logo.png",
+            "title": "Bata",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6M3DN3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skechers_logo.png",
+            "title": "Sketchers",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_z3BTb6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jordan_logo.png",
+            "title": "Jordan",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ME8hUX",
+        "column_tcBhAA",
+        "column_idqbRR",
+        "column_JBAn3P",
+        "column_7Wxt4d",
+        "column_QpFwwz",
+        "column_6M3DN3",
+        "column_z3BTb6"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "multicolumn_rK7LQM"
+  ]
+}
